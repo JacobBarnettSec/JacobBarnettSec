@@ -24,7 +24,7 @@ Here are a few of the labs I'm actively building and refining:
 
 ## 🌐 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINK  
+- **LinkedIn:** [https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/jacobbarnettsec/)  
 - **GitHub Projects:** Browse the repos below for full documentation and screenshots.
 
 ---
