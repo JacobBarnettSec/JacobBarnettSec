@@ -29,4 +29,4 @@ Here are a few of the labs I'm actively building and refining:
 
 ---
 
-_Saviva Labs — Practical IT & Cybersecurity Projects_
+_Saviva Labs — Projects by Jacob_
