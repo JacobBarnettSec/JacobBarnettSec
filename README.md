@@ -11,7 +11,7 @@ I'm an IT and Cybersecurity professional who learns by building real environment
 A few of the labs and security projects I've built::
 
 - **[Splunk Windows Security Monitoring](https://github.com/JacobBarnettSec/splunk-windows-security-monitoring)**  
-  Windows Server 2022 domain setup, OU structure, user provisioning, and Group Policy configuration.
+  Built a full Windows Security monitoring pipeline using Splunk Enterprise. Forwarded Security Event Logs from a Windows Server domain and workstation, created detection dashboards for logons, privilege use, and process activity, and documented the full setup including architecture, SPL queries, and audit policy configuration.
 
 - **[Active Directory Lab](https://github.com/JacobBarnettSec/active-directory-lab)**  
   Windows Server 2022 domain setup, OU structure, user provisioning, and Group Policy configuration.
