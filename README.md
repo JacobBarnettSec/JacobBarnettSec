@@ -1,10 +1,13 @@
-# Hi, I'm Jacob 👋
+# Hey, I'm Jacob 👋
 
-I'm an IT and Cybersecurity professional focused on building hands-on labs that demonstrate practical skills in Active Directory, Windows Server administration, SOC fundamentals, and IT support workflows. I document each project with clarity and intention, turning my learning journey into a polished, recruiter-ready portfolio.
+I'm an IT and Cybersecurity professional who learns by building real environments, breaking things, fixing them, and documenting the process. My projects focus on Windows security, Active Directory, SIEM workflows, and hands-on defensive investigations.
 
 ## 🔧 Featured Projects
 
-Here are a few of the labs I'm actively building and refining:
+A few of the labs and security projects I've built::
+
+- **[Splunk Windows Security Monitoring](https://github.com/JacobBarnettSec/splunk-windows-security-monitoring)**  
+  Windows Server 2022 domain setup, OU structure, user provisioning, and Group Policy configuration.
 
 - **[Active Directory Lab](https://github.com/JacobBarnettSec/active-directory-lab)**  
   Windows Server 2022 domain setup, OU structure, user provisioning, and Group Policy configuration.
@@ -18,8 +21,9 @@ Here are a few of the labs I'm actively building and refining:
 ## 🛠️ Skills & Tools
 
 - **Systems:** Windows Server, Active Directory, Group Policy  
-- **Security:** SOC fundamentals, log analysis, incident triage  
-- **Tools:** ServiceNow, Wireshark, Splunk (fundamentals), PowerShell  
+- **Security:** SIEM fundamentals, log analysis, incident triage  
+- **Tools:** Splunk, ServiceNow, Wireshark, PowerShell  
+- **Cloud:** AWS EC2, Windows Server on cloud  
 - **General:** Troubleshooting, documentation, ticket workflows
 
 ## 🌐 Connect With Me
