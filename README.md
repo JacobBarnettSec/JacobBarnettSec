@@ -1,3 +1,7 @@
+![Saviva Labs](https://img.shields.io/badge/Saviva-Labs-4B9CD3)
+![IT & Cybersecurity](https://img.shields.io/badge/IT%20%26%20Cybersecurity-Projects-6A5ACD)
+![Hands-On Portfolio](https://img.shields.io/badge/Hands--On-Portfolio-0A66C2)
+
 # Hey, I'm Jacob 👋
 
 I'm an IT and Cybersecurity professional who learns by building real environments, breaking things, fixing them, and documenting the process. My projects focus on Windows security, Active Directory, SIEM workflows, and hands-on defensive investigations.
